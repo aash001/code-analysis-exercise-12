@@ -23,9 +23,9 @@ function (currentColor){
 
 | Input | Output |
 | ----- | ------ |
-|"yellow"|'red'  | 
-|"green"|'yellow'| 
-| "blue" |'undefined' | 
+|(currentColor === "yellow")| {nextColor = 'red'}| 
+|(currentColor === "green")|{nextColor ='yellow'}| 
+|(currentColor === "blue") |{nextcolor ='undefined'}| 
 
 <table>
   <tr>
