@@ -23,14 +23,14 @@ function (currentColor){
 
 | Input | Output |
 | ----- | ------ |
-|       |        | 
-|       |        | 
-|       |        | 
+|"yellow"|'red'  | 
+|"green"|'yellow'| 
+| "blue" |'undefined' | 
 
 <table>
   <tr>
     <th>What does this program do?</th>
-    <td></td>
+    <td>This program creates a loop from the color green to yellow to red and then loops bacl to green.</td>
   </tr>
 </table>
 
